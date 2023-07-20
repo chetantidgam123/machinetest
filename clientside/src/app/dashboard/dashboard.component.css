@@ -1,0 +1,11 @@
+.prodDiv{
+    display: grid;
+    gap: 30px;
+    grid-template-columns: repeat(auto-fill,minmax(250px,1fr));
+    padding:20px;
+}
+
+ .card>img{
+     width: 250px;
+     height: 250px;
+ }
